@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Amy! 👋
 
 <!--
 **amyflo/amyflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building my portfolio in React on Gatsby here at [amyflo.com](https://www.amyflo.com/),and finishing up an internship with Lenovo.com. 
 - 🌱 I’m currently learning how to animate CSS, use Blender, and design digital experiences on Figma / Sketch!
