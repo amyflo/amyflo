@@ -2,6 +2,7 @@
 
 <!--
 **amyflo/amyflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [amyflo@stanford.edu](mailto:amyflo@stanford.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/amyflo/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a pet fish named George!
--->
+
